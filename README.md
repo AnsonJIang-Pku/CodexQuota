@@ -140,13 +140,13 @@ swift run codex-quota-cli
 Expected success shape:
 
 ```text
-Cdx 5h 72% · W 41%
+Codex 72·41
 ```
 
 All failures produce:
 
 ```text
-Cdx --
+Codex --
 ```
 
 For a raw protocol probe:
