@@ -1,0 +1,12 @@
+.DS_Store
+.build/
+.swiftpm/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+
+# Local work and generated release artifacts
+work/
+outputs/
+*.dmg
+*.zip
